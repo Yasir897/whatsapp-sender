@@ -1,0 +1,14 @@
+# Personal data — DO NOT publish real phone numbers
+numbers.xlsx
+PyWhatKit_DB.txt
+
+# Binaries / drivers
+chromedriver.exe
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
